@@ -1,0 +1,7 @@
+It's realy simple :
+
+- create a file with	 touch z
+- open the file with	 vim z
+- type i to be in "INSET mode"
+- write Z
+- leave vim with	 Shift zz

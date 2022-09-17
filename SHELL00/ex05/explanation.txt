@@ -1,0 +1,2 @@
+Take a look at the git log man
+man git

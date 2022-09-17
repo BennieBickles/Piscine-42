@@ -1,0 +1,5 @@
+Credentials cache: API:39ED720B-09B8-4D03-9243-37C9B6217A35
+        Principal: mtortrot@42.FR
+
+  Issued                Expires               Principal
+Jul 4 12:12:08 2022  Jul  9 22:12:01 2022  krbtgt/42.FR@42.FR

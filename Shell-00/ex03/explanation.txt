@@ -1,0 +1,1 @@
+Take a look at this page : https://www.calcomsoftware.com/kerberos-tickets-and-authentication-in-active-directory/

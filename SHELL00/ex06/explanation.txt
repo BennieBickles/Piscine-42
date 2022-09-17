@@ -1,0 +1,3 @@
+As for the previous one, take a look at the git manual and find what "git ignore" means.
+man git
+(git status)

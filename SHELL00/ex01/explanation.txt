@@ -1,0 +1,2 @@
+date --set "<day> <month> <year> <hour>:<minutes>:<seconds>"
+To change permissions, take a look at the chmod man
