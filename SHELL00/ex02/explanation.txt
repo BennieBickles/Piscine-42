@@ -1,3 +1,0 @@
-This one il like the previous man with more files
-Take care of the date, permissions aand link
-You'll have to create test6 by creating a symbolic link
