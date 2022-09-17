@@ -1,0 +1,3 @@
+touch "\"\\?\$*'MaRViN'*\$?\\\""
+
+Or you can simply create it by modifying the file directly in your file folder (graphic)
