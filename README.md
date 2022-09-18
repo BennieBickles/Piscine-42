@@ -22,7 +22,7 @@ C 09	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C06/
 C 10	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C06/C-10_Sujet.pdf) [`EN Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C06/C-10_EN.pdf)  | [`C10 Completed`]()
 C 11	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C06/C-11_Sujet.pdf) [`EN Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C06/C-11_EN.pdf)  | [`C11 Completed`]()
 C 12	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C06/C-12_Sujet.pdf) [`EN Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C06/C-12_EN.pdf)  | [`C12 Completed`]()
-C 13	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C06/C-13_Sujet.pdf) [`EN Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C06/C-13_EN.pdf)  | [`C13 Completed`]()
+C 13	|	[`FR Subject`](C13/C-13_Sujet.pdf) [`EN Subject`](C13/C-13_EN.pdf)  | [`C13 Completed`]()
 
 __________________________________________________________________
 <div align="center">
