@@ -7,13 +7,13 @@
 
 Name	|	Subjects       |  Exercises completed
 :----------------------------|:------------------------|:-----------------------
-Shell 00	|	 [`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/Shell-00/Shell-00_Sujet.pdf) [`EN Subejct`](https://github.com/BennieBickles/Piscine-42/blob/main/Shell-00/Shell-00_EN.pdf)       | [`Shell00 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/Shell-00)
-Shell 01	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/Shell-01/Shell-01_Sujet.pdf) [`EN Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/Shell-01/Shell-01_EN.pdf) | [`Shell01 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/Shell-01)
-C 00	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C00/C-00_Sujet.pdf) [`EN Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C00/C-00_EN.pdf) | [`C00 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/C00)
-C 01	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C01/C-01_Sujet.pdf) [`EN Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C01/C-01_EN.pdf)    | [`C01 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/C01)
-C 02	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C02/C-02_Sujet.pdf) [`EN Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C02/C-02_EN.pdf) | [`C02 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/C02)
-C 03	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C03/C-03_Sujet.pdf) [`EN Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C03/C-03_EN.pdf)  | [`C03 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/C03)
-C 04	|	[`FR Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C04/C-04%20_Subject.pdf) [`EN Subject`](https://github.com/BennieBickles/Piscine-42/blob/main/C04/C-04_EN.pdf)  | [`C04 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/C04)
+Shell 00	|	 [`FR Subject`](Shell-00/Shell-00_Sujet.pdf) [`EN Subject`](Shell-00/Shell-00_EN.pdf)       | [`Shell00 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/Shell-00)
+Shell 01	|	[`FR Subject`](Shell-01/Shell-01_Sujet.pdf) [`EN Subject`](Shell-01/Shell-01_EN.pdf)| [`Shell01 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/Shell-01)
+C 00	|	[`FR Subject`](C00/C-00_Sujet.pdf) [`EN Subject`](C00/C-00_EN.pdf)| [`C00 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/C00)
+C 01	|	[`FR Subject`](C01/C-01_Sujet.pdf) [`EN Subject`](C01/C-01_EN.pdf)   | [`C01 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/C01)
+C 02	|	[`FR Subject`](C02/C-02_Sujet.pdf) [`EN Subject`](C02/C-02_EN.pdf)| [`C02 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/C02)
+C 03	|	[`FR Subject`](C03/C-03_Sujet.pdf) [`EN Subject`](C03/C-03_EN.pdf) | [`C03 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/C03)
+C 04	|	[`FR Subject`](C04/C-04_Sujet.pdf) [`EN Subject`](C04/C-04_EN.pdf) | [`C04 Completed`](https://github.com/BennieBickles/Piscine-42/tree/main/C04)
 C 05	|	[`FR Subject`](C05/C-05_Sujet.pdf) [`EN Subject`](C05/C-05_EN.pdf)  | [`C05 Completed`]()
 C 06	|	[`FR Subject`](C06/C-06_Sujet.pdf) [`EN Subject`](C06/C-06_EN.pdf)  | [`C06 Completed`]()
 C 07	|	[`FR Subject`](C07/C-07_Sujet.pdf) [`EN Subject`](C07/C-07_EN.pdf)  | [`C07 Completed`]()
@@ -22,7 +22,7 @@ C 09	|	[`FR Subject`](C09/C-09_Sujet.pdf) [`EN Subject`](C09/C-09_EN.pdf)  | [`C
 C 10	|	[`FR Subject`](C10/C-10_Sujet.pdf) [`EN Subject`](C10/C-10_EN.pdf)  | [`C10 Completed`]()
 C 11	|	[`FR Subject`](C11/C-11_Sujet.pdf) [`EN Subject`](C11/C-11_EN.pdf)  | [`C11 Completed`]()
 C 12	|	[`FR Subject`](C12/C-12_Sujet.pdf) [`EN Subject`](C12/C-12_EN.pdf)  | [`C12 Completed`]()
-C 13	|	[`FR Subject`](C13/C-13_Sujet.pdf) [`EN Subject`](C13/C-13_EN.pdf)  | [`C13 Completed`]()
+C 13	|	[`FR Subject`](C13/C-13_Sujet.pdf) [`EN Subject`](C13/C-13_EN.pdf)  | [`C13 Completed`](C13)
 
 __________________________________________________________________
 <div align="center">
