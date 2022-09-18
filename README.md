@@ -28,7 +28,7 @@ Name	|	Subjects       |  Rush
 :----------------------------|:------------------------|:-----------------------
 Rush 00	|	 [`FR Subject`](Rush-00/Rush-00_Sujet.pdf) [`EN Subject`](Rush-00/Rush-00_EN.pdf)       | [`Rush00 Completed`](Rush-00)
 Rush 01	|	[`FR Subject`](Rush-01/Rush-01_Sujet.pdf) [`EN Subject`](Rush-01/Rush-01_EN.pdf)| [`Rush01 Completed`](Rush-01)
-Rush 02	|	[`FR Subject`](Rush-02/Rush-02_Sujet.pdf) [`EN Subject`](Rush-02/Rush-02_EN.pdf)| [`Rush02 Completed`](Rush-02)
+Rush 02	|	[`FR Subject`](Rush-02/Rush-02_Sujet.pdf) [`EN Subject`](Rush-02/Rush-02_EN.pdf)| [`Rush02 Completed`](Rush-02) [`Dictionary`](Rush-02/Dictionary.txt)
 
 __________________________________________________________________
 <div align="center">
