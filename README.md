@@ -6,7 +6,7 @@
 ## About The Project
 
 Name	|	Subjects       |  Exercises completed
-:------------------------|:-----------------------
+:----------------------------|:------------------------|:-----------------------
 Shell 00	|	 [`Sujet FR`](https://github.com/BennieBickles/Piscine-42/blob/main/Shell-00/Shell-00_Sujet.pdf)        | [`Shell00 Completed 100%`](https://github.com/BennieBickles/Piscine-42/tree/main/Shell-00)
 [`Shell 01 Sujet FR`](https://github.com/BennieBickles/Piscine-42/blob/main/Shell-01/Shell-01_Sujet.pdf)  | [`Shell01 Completed 100%`](https://github.com/BennieBickles/Piscine-42/tree/main/Shell-01)
 [`C 00`](https://github.com/BennieBickles/Piscine-42/blob/main/C00/C-00_Sujet.pdf) | [`C00 Completed 100%`](https://github.com/BennieBickles/Piscine-42/tree/main/C00)
