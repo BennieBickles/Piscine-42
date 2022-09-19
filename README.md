@@ -9,7 +9,7 @@
 * [`Piscine 42 Vmontagn`](https://42-beta.vmontagn.fr/login)
 * [`42 Header`](https://github.com/42Paris/42header)
 * [`42 Norminette`](https://github.com/alexandregv/norminette-vim)
-* [`Learn programming in 4min per day`](https://www.youtube.com/watch?v=5p8wTOr8AbU) 
+* [`Learn programming in 4min`](https://www.youtube.com/watch?v=5p8wTOr8AbU) 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
