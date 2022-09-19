@@ -16,28 +16,28 @@
 
 Name	|	Subjects       |  Exercises completed
 :----------------------------|:------------------------|:-----------------------
-Shell 00	|	 [`FR Subject`](Shell-00/Shell-00_Sujet.pdf) [`EN Subject`](Shell-00/Shell-00_EN.pdf)       | [`Shell00 Completed`](Shell-00)
-Shell 01	|	[`FR Subject`](Shell-01/Shell-01_Sujet.pdf) [`EN Subject`](Shell-01/Shell-01_EN.pdf)| [`Shell01 Completed`](Shell-01)
-C 00	|	[`FR Subject`](C00/C-00_Sujet.pdf) [`EN Subject`](C00/C-00_EN.pdf)| [`C00 Completed`](C00)
-C 01	|	[`FR Subject`](C01/C-01_Sujet.pdf) [`EN Subject`](C01/C-01_EN.pdf)   | [`C01 Completed`](C01)
-C 02	|	[`FR Subject`](C02/C-02_Sujet.pdf) [`EN Subject`](C02/C-02_EN.pdf)| [`C02 Completed`](C02)
-C 03	|	[`FR Subject`](C03/C-03_Sujet.pdf) [`EN Subject`](C03/C-03_EN.pdf) | [`C03 Completed`](C03)
-C 04	|	[`FR Subject`](C04/C-04_Sujet.pdf) [`EN Subject`](C04/C-04_EN.pdf) | [`C04 Completed`](C04)
-C 05	|	[`FR Subject`](C05/C-05_Sujet.pdf) [`EN Subject`](C05/C-05_EN.pdf)  | [`C05 Completed`](C05)
-C 06	|	[`FR Subject`](C06/C-06_Sujet.pdf) [`EN Subject`](C06/C-06_EN.pdf)  | [`C06 Completed`](C06)
-C 07	|	[`FR Subject`](C07/C-07_Sujet.pdf) [`EN Subject`](C07/C-07_EN.pdf)  | [`C07 Completed`](C07)
-C 08	|	[`FR Subject`](C08/C-08_Sujet.pdf) [`EN Subject`](C08/C-08_EN.pdf)  | [`C08 Completed`](C08)
-C 09	|	[`FR Subject`](C09/C-09_Sujet.pdf) [`EN Subject`](C09/C-09_EN.pdf)  | [`C09 Completed`](C09)
-C 10	|	[`FR Subject`](C10/C-10_Sujet.pdf) [`EN Subject`](C10/C-10_EN.pdf)  | [`C10 Completed`](C10)
-C 11	|	[`FR Subject`](C11/C-11_Sujet.pdf) [`EN Subject`](C11/C-11_EN.pdf)  | [`C11 Completed`](C11)
-C 12	|	[`FR Subject`](C12/C-12_Sujet.pdf) [`EN Subject`](C12/C-12_EN.pdf)  | [`C12 Completed`](C12)
-C 13	|	[`FR Subject`](C13/C-13_Sujet.pdf) [`EN Subject`](C13/C-13_EN.pdf)  | [`C13 Completed`](C13)
+Shell 00	|	 [`FR Subject`](Piscine_Shell/Shell-00/Shell-00_Sujet.pdf) [`EN Subject`](Piscine_Shell/Shell-00/Shell-00_EN.pdf)       | [`Shell00 Completed`](Piscine_Shell/Shell-00)
+Shell 01	|	[`FR Subject`](Piscine_Shell/Shell-01/Shell-01_Sujet.pdf) [`EN Subject`](Piscine_Shell/Shell-01/Shell-01_EN.pdf)| [`Shell01 Completed`](Piscine_Shell/Shell-01)
+C 00	|	[`FR Subject`](Piscine_C/C00/C-00_Sujet.pdf) [`EN Subject`](Piscine_C/C00/C-00_EN.pdf)| [`C00 Completed`](Piscine_C/C00)
+C 01	|	[`FR Subject`](Piscine_C/C01/C-01_Sujet.pdf) [`EN Subject`](Piscine_C/C01/C-01_EN.pdf)   | [`C01 Completed`](Piscine_C/C01)
+C 02	|	[`FR Subject`](Piscine_C/C02/C-02_Sujet.pdf) [`EN Subject`](Piscine_C/C02/C-02_EN.pdf)| [`C02 Completed`](Piscine_C/C02)
+C 03	|	[`FR Subject`](Piscine_C/C03/C-03_Sujet.pdf) [`EN Subject`](Piscine_C/C03/C-03_EN.pdf) | [`C03 Completed`](Piscine_C/C03)
+C 04	|	[`FR Subject`](Piscine_C/C04/C-04_Sujet.pdf) [`EN Subject`](Piscine_C/C04/C-04_EN.pdf) | [`C04 Completed`](Piscine_C/C04)
+C 05	|	[`FR Subject`](Piscine_C/C05/C-05_Sujet.pdf) [`EN Subject`](Piscine_C/C05/C-05_EN.pdf)  | [`C05 Completed`](Piscine_C/C05)
+C 06	|	[`FR Subject`](Piscine_C/C06/C-06_Sujet.pdf) [`EN Subject`](Piscine_C/C06/C-06_EN.pdf)  | [`C06 Completed`](Piscine_C/C06)
+C 07	|	[`FR Subject`](Piscine_C/C07/C-07_Sujet.pdf) [`EN Subject`](Piscine_C/C07/C-07_EN.pdf)  | [`C07 Completed`](Piscine_C/C07)
+C 08	|	[`FR Subject`](Piscine_C/C08/C-08_Sujet.pdf) [`EN Subject`](Piscine_C/C08/C-08_EN.pdf)  | [`C08 Completed`](Piscine_C/C08)
+C 09	|	[`FR Subject`](Piscine_C/C09/C-09_Sujet.pdf) [`EN Subject`](Piscine_C/C09/C-09_EN.pdf)  | [`C09 Completed`](Piscine_C/C09)
+C 10	|	[`FR Subject`](Piscine_C/C10/C-10_Sujet.pdf) [`EN Subject`](Piscine_C/C10/C-10_EN.pdf)  | [`C10 Completed`](Piscine_C/C10)
+C 11	|	[`FR Subject`](Piscine_C/C11/C-11_Sujet.pdf) [`EN Subject`](Piscine_C/C11/C-11_EN.pdf)  | [`C11 Completed`](Piscine_C/C11)
+C 12	|	[`FR Subject`](Piscine_C/C12/C-12_Sujet.pdf) [`EN Subject`](Piscine_C/C12/C-12_EN.pdf)  | [`C12 Completed`](Piscine_C/C12)
+C 13	|	[`FR Subject`](Piscine_C/C13/C-13_Sujet.pdf) [`EN Subject`](Piscine_C/C13/C-13_EN.pdf)  | [`C13 Completed`](Piscine_C/C13)
 
 Name	|	Subjects       |  Rush 
 :----------------------------|:------------------------|:-----------------------
-Rush 00	|	 [`FR Subject`](Rush-00/Rush-00_Sujet.pdf) [`EN Subject`](Rush-00/Rush-00_EN.pdf)       | [`Rush00 Completed`](Rush-00)
-Rush 01	|	[`FR Subject`](Rush-01/Rush-01_Sujet.pdf) [`EN Subject`](Rush-01/Rush-01_EN.pdf)| [`Rush01 Completed`](Rush-01)
-Rush 02	|	[`FR Subject`](Rush-02/Rush-02_Sujet.pdf) [`EN Subject`](Rush-02/Rush-02_EN.pdf)| [`Rush02 Completed`](Rush-02) [`Dictionary`](Rush-02/Dictionary.txt)
+Rush 00	|	 [`FR Subject`](Rushs/Rush-00/Rush-00_Sujet.pdf) [`EN Subject`](Rushs/Rush-00/Rush-00_EN.pdf)       | [`Rush00 Completed`](Rushs/Rush-00)
+Rush 01	|	[`FR Subject`](Rushs/Rush-01/Rush-01_Sujet.pdf) [`EN Subject`](Rushs/Rush-01/Rush-01_EN.pdf)| [`Rush01 Completed`](Rushs/Rush-01)
+Rush 02	|	[`FR Subject`](Rushs/Rush-02/Rush-02_Sujet.pdf) [`EN Subject`](Rushs/Rush-02/Rush-02_EN.pdf)| [`Rush02 Completed`](Rushs/Rush-02) [`Dictionary`](Rushs/Rush-02/Dictionary.txt)
 
 __________________________________________________________________
 <div align="center">
